@@ -1,0 +1,10 @@
+assets/
+sources/
+/content/
+node_modules/
+scripts/
+templates/
+*S.md
+package-lock.json
+package.json
+.DS_Store
