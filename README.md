@@ -127,5 +127,4 @@ It is an attempt to build a **clear, structured understanding of tantric massage
 
 ---
 
-This repo is maintained by
-Source article: [Anahata Tantra Temple](https://www.anahatatantra.com/)
+This repo is maintained by: [Anahata Tantra Temple](https://www.anahatatantra.com/)
